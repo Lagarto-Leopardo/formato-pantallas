@@ -7,5 +7,4 @@ En conjunto se definen aspectos más gráficos y estructurales de la infografía
 - (ii) Tipografía
 - (iii) Tipos de gráficos (figurativos, no figurativos y mixto)
 
-
-
+Además, realizamos pequeños ajustes a la organización del contenido para lograr una narración más coherente y adaptable a distintos tamaños.
